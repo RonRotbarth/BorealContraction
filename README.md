@@ -1,5 +1,5 @@
 # BorealContraction
 
-This repository includes all scripts and additional information rearding the following publication: 
+This repository includes the R script rearding the following publication: 
 
-Rotbarth et al. (2023) Tree cover changes reveal contraction of North American boreal forests. Nature Communications. 
+Rotbarth et al. (2023) North American boreal forests: Northern expansion is not compensating for southern declines. Nature Communications. 
